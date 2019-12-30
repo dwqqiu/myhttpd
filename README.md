@@ -1,2 +1,2 @@
-# myhttp
-A simple http client and server program
+# A Simple HTTP Client and Server
+
